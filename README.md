@@ -10,6 +10,7 @@
 點擊部分使用adb指令在特定座標上點擊及輸入數字  
 點擊  
 > adb -s 67ffc8bf shell input tap 540 990  
+
 輸入  
 > adb -s 67ffc8bf shell input text 100  
 <br />  
