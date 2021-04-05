@@ -2,7 +2,6 @@
 語言：Java  
 程式最後修改時間：2020/02/14  
 <br />  
-<br />  
 使用Android SDK，在電腦上模擬Anroid系統
 網頁端只有在下注時會有卡住問題  
 數據獲取一樣可以使用selenium從網頁上獲取  
@@ -13,6 +12,7 @@
 > adb -s 67ffc8bf shell input tap 540 990  
 輸入  
 > adb -s 67ffc8bf shell input text 100  
+<br />  
 <br />  
 效果展示：https://youtu.be/kmy4OCj03bg  
 
